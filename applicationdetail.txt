@@ -1,0 +1,7 @@
+******* Welecome to Spring ORM Project *********
+PRESS 1 for add new student
+PRESS 2 display all Student
+PRESS 3 for getdetail of single student
+PRESS 4 delete student
+Press 6 for exit
+PRESS 5 for update student
